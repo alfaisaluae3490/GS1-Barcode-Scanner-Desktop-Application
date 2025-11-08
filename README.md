@@ -5,6 +5,9 @@ Developed for: Aster Pharmacy - Medshop Drug Store, Dubai Investment Park (DIC)
 Developer: Muhammad Faisal
 Technology Stack: Python, Tkinter, PIL/Pillow, PyInstaller
 
+<img width="1528" height="931" alt="Sample" src="https://github.com/user-attachments/assets/3506e1ba-b69b-4da2-ab56-3b9fbefe4bfa" />
+
+
 🎯 Key Features
 Core Functionality
 
